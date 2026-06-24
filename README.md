@@ -23,9 +23,6 @@ As organizations adopt AI and automation at scale, roles built on routine, repea
 | **Power BI** | 3-page interactive dashboard, integrating model output |
 
 ---
-
-## 📁 Repository Structure
-
 ---
 
 ## 📊 Dataset
