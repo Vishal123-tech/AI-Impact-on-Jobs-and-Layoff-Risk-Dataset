@@ -99,7 +99,7 @@ KPI cards (Total Employees, High Risk %, Avg Predicted Risk Score, Model Accurac
 ### Page 2 — Industry Deep-Dive
 Drillable Job_Role breakdown by risk, and a model-calibration scatter plot — average predicted risk score vs. actual high-risk % per industry, bubble-sized by employee count.
 
-![Dashboard Page 2 - Industry Deep-Dive](Screenshot/Screenshot/Page2.png)
+![Dashboard Page 2 - Industry Deep-Dive](Screenshot/Page2.png)
 
 
 ### Page 3 — AI Adoption Analysis
