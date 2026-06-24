@@ -93,6 +93,7 @@ A 3-page interactive report built on top of the model's out-of-sample prediction
 ### Page 1 — Overview
 KPI cards (Total Employees, High Risk %, Avg Predicted Risk Score, Model Accuracy), the risk-split donut chart, risk by industry, risk by job level, and a Top 5 riskiest job roles table.
 
+![Dashboard Page 3 - AI Adoption Analysis](Screenshot/Page0.png)
 ![Dashboard Page 3 - AI Adoption Analysis](Screenshot/Page1.png)
 
 
