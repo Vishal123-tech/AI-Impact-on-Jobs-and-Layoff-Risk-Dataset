@@ -125,7 +125,6 @@ Risk by AI adoption level, risk vs. number of AI tools used, a predicted-risk ga
 
 - A full written report covering methodology, limitations, and detailed findings is available in the `docs` folder.
 - A presentation deck summarizing the project is also available in the `docs` folder.
-- A 60+ question interview prep guide, covering the full project from basic to advanced, rounds out the `docs` folder.
 
 ---
 
