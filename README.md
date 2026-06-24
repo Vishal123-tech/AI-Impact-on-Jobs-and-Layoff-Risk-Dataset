@@ -93,7 +93,8 @@ A 3-page interactive report built on top of the model's out-of-sample prediction
 ### Page 1 — Overview
 KPI cards (Total Employees, High Risk %, Avg Predicted Risk Score, Model Accuracy), the risk-split donut chart, risk by industry, risk by job level, and a Top 5 riskiest job roles table.
 
-![Dashboard Page 1 - Overview](powerbi/screenshots/page1_overview.png)
+![Dashboard Page 1 - Overview](screenshot/Page 1.png)
+
 
 ### Page 2 — Industry Deep-Dive
 Drillable Job_Role breakdown by risk, and a model-calibration scatter plot — average predicted risk score vs. actual high-risk % per industry, bubble-sized by employee count.
