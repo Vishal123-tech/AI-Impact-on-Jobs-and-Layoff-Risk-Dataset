@@ -1,4 +1,4 @@
-# AI Impact on Jobs: Layoff Risk Analysis
+ # AI Impact on Jobs: Layoff Risk Analysis
 
 An end-to-end data analytics project examining how AI adoption and task automation relate to employee layoff risk — built using **Python**, **PostgreSQL**, and **Power BI**.
 
